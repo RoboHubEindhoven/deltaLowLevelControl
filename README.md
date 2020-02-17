@@ -8,7 +8,11 @@ Petalinux 2017.4
 Zybo Z7 20
 Ubuntu 18
 ## Installing 
-[Linux image](https://github.com/marckri/Fpga-Workshop/blob/master/doc/petalinux.md)
+[Vivado & Petalinux](https://github.com/marckri/Fpga-Workshop/blob/master/doc/petalinux.md)
+
+
 
 ----
-[Vivado & Petalinux](https://github.com/marckri/Fpga-Workshop/blob/master/doc/petalinux.md)
+## Build Linux Image with Petalinux
+
+[Linux image](https://github.com/marckri/Fpga-Workshop/blob/master/doc/petalinux.md)
